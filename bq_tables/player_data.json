@@ -1,0 +1,114 @@
+[
+  {
+    "name": "user_id",
+    "mode": "NULLABLE",
+    "type": "STRING",
+    "description": "Unique ID of the user",
+    "fields": []
+  },
+  {
+    "name": "current_level",
+    "mode": "NULLABLE",
+    "type": "INTEGER",
+    "description": "The level the data in the row refers to",
+    "fields": []
+  },
+  {
+    "name": "level_passed",
+    "mode": "NULLABLE",
+    "type": "BOOLEAN",
+    "description": "Was the level completed successfully?",
+    "fields": []
+  },
+  {
+    "name": "score",
+    "mode": "NULLABLE",
+    "type": "INTEGER",
+    "description": "Score earned in this attempt at the level",
+    "fields": []
+  },
+  {
+    "name": "moves_left",
+    "mode": "NULLABLE",
+    "type": "INTEGER",
+    "description": "The number of moves left to complete the level",
+    "fields": []
+  },
+  {
+    "name": "num_failed_moves",
+    "mode": "NULLABLE",
+    "type": "INTEGER",
+    "description": "Number of illegal moves (the pieces moved back as no match was made)",
+    "fields": []
+  },
+  {
+    "name": "date",
+    "mode": "NULLABLE",
+    "type": "TIMESTAMP",
+    "description": "The time of entry",
+    "fields": []
+  },
+  {
+    "name": "device_model",
+    "mode": "NULLABLE",
+    "type": "STRING",
+    "description": "The device used by the player",
+    "fields": []
+  },
+  {
+    "name": "timePlaying",
+    "mode": "NULLABLE",
+    "type": "FLOAT",
+    "description": "Time spent in the level in seconds",
+    "fields": []
+  },
+  {
+    "name": "num_clicks_on_board",
+    "mode": "NULLABLE",
+    "type": "INTEGER",
+    "description": "Number of overall clicks on the board (for any reason)",
+    "fields": []
+  },
+  {
+    "name": "user_rating",
+    "mode": "NULLABLE",
+    "type": "INTEGER",
+    "description": "User's rating of the level",
+    "fields": []
+  },
+  {
+    "name": "world_serverd",
+    "mode": "NULLABLE",
+    "type": "STRING",
+    "description": "Type of world served to the player",
+    "fields": []
+  },
+  {
+    "name": "level_compl_id",
+    "mode": "NULLABLE",
+    "type": "STRING",
+    "description": "Unique ID of the sent level completition to be referenced by 'moves' table",
+    "fields": []
+  },
+  {
+    "name": "num_boosters_used",
+    "mode": "NULLABLE",
+    "type": "INTEGER",
+    "description": "How many times the user used a booster",
+    "fields": []
+  },
+  {
+    "name": "game_version",
+    "mode": "NULLABLE",
+    "type": "INTEGER",
+    "description": null,
+    "fields": []
+  },
+  {
+    "name": "function_version",
+    "mode": "NULLABLE",
+    "type": "INTEGER",
+    "description": null,
+    "fields": []
+  }
+]

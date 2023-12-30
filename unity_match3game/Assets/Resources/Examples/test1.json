@@ -1,0 +1,72 @@
+[
+{
+"level_uid": "LUID-cb8aaa8e-e415-4e5d-950f-9fc7694a691a",
+"num_different_pieces": 3,
+"score_goal": 1100,
+"board_width": 5,
+"board_height": 5,
+"num_moves": 25,
+"time_seconds": 0,
+"created_time": 1692187949681233,
+"collection_goals": [
+30,
+20
+]
+},
+{
+"level_uid": "LUID-5b0eb52f-0b4f-44e7-9559-dec7b6c37bcd",
+"num_different_pieces": 3,
+"score_goal": 1150,
+"board_width": 5,
+"board_height": 5,
+"num_moves": 25,
+"time_seconds": 0,
+"created_time": 1692187949681233,
+"collection_goals": [
+35,
+25
+]
+},
+{
+"level_uid": "LUID-d5ad0498-8293-4320-a3a7-fa45f01ac315",
+"num_different_pieces": 3,
+"score_goal": 1200,
+"board_width": 5,
+"board_height": 5,
+"num_moves": 26,
+"time_seconds": 0,
+"created_time": 1692187949681233,
+"collection_goals": [
+40,
+30
+]
+},
+{
+"level_uid": "LUID-82e624ec-29fa-4608-a9f3-3d0982a1df6c",
+"num_different_pieces": 4,
+"score_goal": 1250,
+"board_width": 5,
+"board_height": 5,
+"num_moves": 27,
+"time_seconds": 0,
+"created_time": 1692187949681233,
+"collection_goals": [
+45,
+35
+]
+},
+{
+"level_uid": "LUID-021c588b-f4eb-4330-a05d-bf381d4b7ff2",
+"num_different_pieces": 4,
+"score_goal": 1300,
+"board_width": 5,
+"board_height": 5,
+"num_moves": 28,
+"time_seconds": 0,
+"created_time": 1692187949681233,
+"collection_goals": [
+50,
+40
+]
+}
+]

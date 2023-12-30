@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e15beef1b3e8f4f6bb0866fa76da5d30, type: 3}
+  m_Name: BaselineLevel18
+  m_EditorClassIdentifier: 
+  levelName: BaselineLevel06
+  width: 6
+  height: 6
+  gamePiecePrefabs:
+  - {fileID: 1282329895864240, guid: 16eff60049fa742e09c4e037182057a2, type: 3}
+  - {fileID: 1372902284518312, guid: ddd7ecb364d034ad295c2ea9c8df1999, type: 3}
+  - {fileID: 1836425604369276, guid: 7471f6d24260942c499dd3fbbeccadc6, type: 3}
+  - {fileID: 1764584299026588, guid: d25f2e53e91ce49bd99d368bec39987a, type: 3}
+  startingTiles: []
+  startingGamePieces: []
+  startingBlockers: []
+  chanceForCollectible: 0
+  collectionGoals:
+  - {fileID: 6384258979057900826, guid: ba93626e37894524e8c3f00d01b1f4f8, type: 3}
+  - {fileID: 5579275237045447422, guid: b7bc6be7b9aee4db087d4f35445d684f, type: 3}
+  scoreGoals: fa000000c2010000bc020000
+  movesLeft: 17
+  timeLeft: 60
+  levelCounter: 1

@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e15beef1b3e8f4f6bb0866fa76da5d30, type: 3}
+  m_Name: B01L01
+  m_EditorClassIdentifier: 
+  levelName: B01L01
+  width: 4
+  height: 4
+  gamePiecePrefabs:
+  - {fileID: 1282329895864240, guid: 16eff60049fa742e09c4e037182057a2, type: 3}
+  - {fileID: 1764584299026588, guid: d25f2e53e91ce49bd99d368bec39987a, type: 3}
+  - {fileID: 1664362004353522, guid: ded3823fda2b64d07a29783e0ce9acc9, type: 3}
+  startingTiles: []
+  startingGamePieces: []
+  startingBlockers: []
+  chanceForCollectible: 0
+  collectionGoals:
+  - {fileID: 6384258979057900826, guid: 1da9ee0a065cf4b02b902072e8e4b803, type: 3}
+  scoreGoals: 6e000000dc0000005e010000
+  movesLeft: 30
+  timeLeft: 60
+  levelCounter: 1
