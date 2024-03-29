@@ -4,14 +4,6 @@ This repository contains the code and data to accompany a research paper.
 
 It includes several components, each organized into its own folder. Below is an overview of each folder and its contents.
 
-## python_player_type_comparison
-
-This folder contains Python scripts used for comparing different player types. 
-
-It also includes the data and exported visuals.
-
-Python version is 3.11, dependencies are listed in requirements.txt.
-
 ## r_results_analysis
 
 Contains R scripts used in the analysis. Data is also included in the folder.
