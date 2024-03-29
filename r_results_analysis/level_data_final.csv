@@ -1,4 +1,4 @@
-levelServingStrategy,level_group,event_name,cnt
+serving_strategy,level_group,event_name,cnt
 gpt,first_level,level_start,260
 gpt,first_level,level_end,89
 gpt,all_levels,level_start,476

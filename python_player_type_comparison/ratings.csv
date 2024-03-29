@@ -1,9 +1,0 @@
-levelServingStrategy,level_group,event_name,cnt
-gpt,first_level,level_start,260
-gpt,first_level,level_end,89
-gpt,all_levels,level_start,476
-gpt,all_levels,level_end,262
-random,first_level,level_start,302
-random,first_level,level_end,54
-random,all_levels,level_start,452
-random,all_levels,level_end,160
